@@ -4,10 +4,10 @@
 
 Quality Engineer @ RedHat
 
-- 🏢 I`m currently working on [Ansible](https://www.ansible.com/)
+- 🏢 I'm currently working on [Ansible](https://www.ansible.com/)
 - 📫 Reach me [tiago.goes2009@gmail.com](mailto:tiago.goes2009@gmail.com)
 
----
+
 <h3 align="center"> Other Accounts</h3>
 <br />
 <p align="center">
