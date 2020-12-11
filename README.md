@@ -1,11 +1,11 @@
-<h1 align="center">Hi, I'm Tiago Góes 👋</h1>
+<h1 align="center">Hi, I'm Tiago 👋</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tiagodread" alt="tiagodread profile view" /> </p>
 
 
 Quality Engineer @ RedHat
 
-- 🏢 I'm currently working on [Ansible](https://www.ansible.com/)
-- 📫 Reach me [tiago.goes2009@gmail.com](mailto:tiago.goes2009@gmail.com)
+- 🏢  I'm currently working on [Ansible Tower](https://www.ansible.com/)
+- 📫  Reach me [tiago.goes2009@gmail.com](mailto:tiago.goes2009@gmail.com)
 
 
 <h3 align="center"> Other Accounts</h3>
